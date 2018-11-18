@@ -2,7 +2,7 @@
 
 - [ ] traveling bag
 - [ ] netbook
-- [ ] nettbok charge cable
+- [ ] netbok charge cable
 - [ ] smartphone 
 - [ ] smartphone charge cable
 - [ ] scribbling pad
