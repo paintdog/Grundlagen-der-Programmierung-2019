@@ -6,6 +6,13 @@ Andreas de Vries und Volker Weiß: Grundlagen der Programmierung. Vorlesungsskri
 
 **Wichtig**: Ich habe das Skript 2019 (1. Version 2019) genutzt, um Java zu lernen und stehe in keiner Beziehung zu den Autoren des Skripts noch zur Fachhochschule Südwestfalen, auf deren Seiten das Skript veröffentlicht wurde.
 
+## Weblinks
+Weblink                                    | Seite  | Beschreibung
+-------------------------------------------|-------:|--------------------------------------------------------------------------
+http://www.isthisthingon.org/unicode       |     16 | Auflistung der möglichen Unicode-Zeichen und ihrer jeweiligen Hexadezimalcodes
+https://docs.oracle.com/javase/8/docs/api/ |     17 | Link auf die Java-API
+
+
 ## Übersicht über die Skripte
 
 Skript             | Seite  | Beschreibung
