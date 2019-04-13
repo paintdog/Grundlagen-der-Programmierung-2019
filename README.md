@@ -22,7 +22,9 @@ Dialogfenster.java |     15 | Verschiedene Möglichkeiten, ein Dialogfenster zu 
 Ausgaben.java      |     16 | Die verschiedenen Möglichkeiten der Ausgabe in der Konsole und im Dialogfenster
 Arithmetik.java    |     19 | Verschiedene arithmetische Operationen mit unterschiedlichen Datentypen
 Inkrement.java     |     25 | Beispiele für die Wirkung von unären Inkrement- und Dekrementioperatoren
+ErsteEingaben.java |     26 | Eingabe auf der Konsole
 
+               
 ## Definitionen
 
 Seite | Definition
