@@ -1,6 +1,7 @@
 /* 
  * Generierung einer Zufallszahl mittels Math.random()
- *  
+ * 
+ * Nicht Teil des Skrips, bezieht sich auf:
  * 1. Version des Skripts, 2019, S. 16-17
  * 
  */
