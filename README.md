@@ -1,10 +1,5 @@
-# traveling bag
+# Grundlagen der Programmierung (2019)
 
-- [ ] traveling bag
-- [ ] netbook
-- [ ] netbok charge cable
-- [ ] smartphone 
-- [ ] smartphone charge cable
-- [ ] scribbling pad
-- [ ] pens
-- [ ] handkerchiefs
+Dieses Repository bietet Dateien zum Skript:
+
+Andreas de Vries und Volker Weiß: Grundlagen der Programmierung. Vorlesungsskript für das erste Semester Wirtschaftsinformatik. Hagen 2019.
