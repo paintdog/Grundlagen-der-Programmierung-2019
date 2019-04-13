@@ -8,6 +8,9 @@ Andreas de Vries und Volker Weiß: Grundlagen der Programmierung. Vorlesungsskri
 
 ## Übersicht über die Skripte
 
-Skript            | Seite  | Beschreibung
-------------------|--------|--------------------------------------------------
-Willkommen.java   | S. 9   | Einfacher Dialog, der eine Message ausgibt
+Skript             | Seite  | Beschreibung
+-------------------|--------|--------------------------------------------------------------------
+Willkommen.java    | S.   9 | Einfacher Dialog, der eine Message ausgibt
+-------------------|--------|--------------------------------------------------------------------
+Dialogfenster.java | S.  15 | Verschiedene Möglichkeiten, ein Dialogfenster zu realisieren
+-------------------|--------|--------------------------------------------------------------------
