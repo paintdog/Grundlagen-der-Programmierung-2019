@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 
 /**
- * Dialogfenster mi anderen Icons
+ * Dialogfenster mit anderen Icons
  * 
  * 1. Version des Skripts, 2019, S. 15
  */
