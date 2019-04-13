@@ -15,14 +15,15 @@ https://docs.oracle.com/javase/8/docs/api/ |     17 | Link auf die Java-API
 
 ## Übersicht über die Skripte
 
-Skript             | Seite  | Beschreibung
--------------------|-------:|--------------------------------------------------------------------------------------------------
-Willkommen.java    |      9 | Einfacher Dialog, der eine Message ausgibt
-Dialogfenster.java |     15 | Verschiedene Möglichkeiten, ein Dialogfenster zu realisieren
-Ausgaben.java      |     16 | Die verschiedenen Möglichkeiten der Ausgabe in der Konsole und im Dialogfenster
-Arithmetik.java    |     19 | Verschiedene arithmetische Operationen mit unterschiedlichen Datentypen
-Inkrement.java     |     25 | Beispiele für die Wirkung von unären Inkrement- und Dekrementioperatoren
-ErsteEingaben.java |     26 | Eingabe auf der Konsole
+Skript                  | Seite  | Beschreibung
+------------------------|-------:|--------------------------------------------------------------------------------------------------
+Willkommen.java         |      9 | Einfacher Dialog, der eine Message ausgibt
+Dialogfenster.java      |     15 | Verschiedene Möglichkeiten, ein Dialogfenster zu realisieren
+Ausgaben.java           |     16 | Die verschiedenen Möglichkeiten der Ausgabe in der Konsole und im Dialogfenster (JOptionPane.showMessageDialog())
+Arithmetik.java         |     19 | Verschiedene arithmetische Operationen mit unterschiedlichen Datentypen
+Inkrement.java          |     25 | Beispiele für die Wirkung von unären Inkrement- und Dekrementioperatoren
+ErsteEingaben.java      |     26 | Eingabe auf der Konsole
+EingabenMitFenster.java |     26 | Eingabe mit einem Fenster (JOptionPane.showInputDialog())
 
                
 ## Definitionen
