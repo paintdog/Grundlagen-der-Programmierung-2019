@@ -27,4 +27,4 @@ Arithmetik.java    |     19 | Verschiedene arithmetische Operationen mit untersc
 
 Seite | Definition
 -----:|-----------------------------------------------------------------------------------------------------------------------
-   19 | Definition 1.1: Operation...
+   19 | Definition 1.1: „Eine Operation ist gegeben durch einen Operator und mindestens einen Operanden. Hierbei ist ein *Operator* ein Zeichen, das die Operation symbolisiert, meist eine zweistellige Verknüpfung, und die Argumente dieser Verknüpfung heißen *Operanden*.“
