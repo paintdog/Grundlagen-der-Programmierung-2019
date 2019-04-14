@@ -1,6 +1,12 @@
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
+/**
+ * Eingabedialog mit mehreren Eingabefeldern
+ * 
+ * 1. Version des Skripts, 2019, S. 28
+ */
+
 public class MehrereEingaben {
   
   public static void main (String[] args) {
