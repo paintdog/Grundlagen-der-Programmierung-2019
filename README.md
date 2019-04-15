@@ -33,7 +33,8 @@ Inkrement.java          |     25 | Beispiele für die Wirkung von unären Inkrem
 ErsteEingaben.java      |     26 | Eingabe auf der Konsole
 EingabenMitFenster.java |     26 | Eingabe mit einem Fenster (JOptionPane.showInputDialog())
 MehrereEingaben.java    |     28 | Dialog mit mehreren Eingabefeldern und anschließender Ausgabe in der Konsole
-StringAddition.java     |     28 | Ein Dialog bietet zwei Eingabefelder, ein weiterer Dialog gibt einen konkatenierten String aus Addition.java           |     29 | Ein Dialog nimmt zwei Zahlen auf und ein weiterer Dialog gibt die addierten Zahlen aus
+StringAddition.java     |     28 | Ein Dialog bietet zwei Eingabefelder, ein weiterer Dialog gibt einen konkatenierten String aus
+Addition.java           |     29 | Ein Dialog nimmt zwei Zahlen auf und ein weiterer Dialog gibt die addierten Zahlen aus
 
                
 ## Definitionen
