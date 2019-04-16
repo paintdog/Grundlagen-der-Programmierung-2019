@@ -15,12 +15,6 @@ http://www.isthisthingon.org/unicode       |     16 | Auflistung der möglichen 
 https://docs.oracle.com/javase/8/docs/api/ |     17 | Link auf die Java-API
 
 
-## Aufbau
-
-Das Skript besteht auf vier Kapiteln und zwar:
-
-[...]
-
 ## Übersicht über die Skripte
 
 Skript                  | Seite  | Beschreibung
