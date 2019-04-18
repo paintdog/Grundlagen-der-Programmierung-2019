@@ -11,6 +11,8 @@ Das Skript von de Vries und Weiß 2019 steht unter der [Creative Commons License
 ## Weblinks
 Weblink                                    | Seite  | Beschreibung
 -------------------------------------------|-------:|--------------------------------------------------------------------------
+http://docs.oracle.com/javase/tutorial/    |      5 | Tutorials von Oracle
+http://de.wikibooks.org/wiki/Java_Standard |      5 | Java Standard (Wikibook)
 http://www.isthisthingon.org/unicode       |     16 | Auflistung der möglichen Unicode-Zeichen und ihrer jeweiligen Hexadezimalcodes
 https://docs.oracle.com/javase/8/docs/api/ |     17 | Link auf die Java-API
 
