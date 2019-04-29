@@ -31,7 +31,7 @@ EingabenMitFenster.java |     26 | Eingabe mit einem Fenster (JOptionPane.showIn
 MehrereEingaben.java    |     28 | Dialog mit mehreren Eingabefeldern und anschließender Ausgabe in der Konsole
 StringAddition.java     |     28 | Ein Dialog bietet zwei Eingabefelder, ein weiterer Dialog gibt einen konkatenierten String aus
 Addition.java           |     29 | Ein Dialog nimmt zwei Zahlen auf und ein weiterer Dialog gibt die addierten Zahlen aus
-
+Testergebnis.java       |     37 | Ein Dialog, der eine Note entgegennimmt und prüft, ob ein Test bestanden wurde
                
 ## Definitionen
 
